@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int COUNT = 50_000; // можешь менять количество операций
+        int COUNT = 50_000;
 
         CollectionTester tester = new CollectionTester(COUNT);
 
